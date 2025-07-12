@@ -60,7 +60,7 @@ Here are some glimpses of the application:
 ---
 
 ##  Project Link:
-The complete project is hosted on the given url :  
+The complete project is hosted on the given url :  https://priyanshi585.github.io/Campus-Connect/
 
 
 
